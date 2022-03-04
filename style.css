@@ -1,0 +1,15 @@
+.box {
+  display: inline-block;
+  background-color: #ccc;
+  width: 200px;
+  height: 55px;
+  border: solid 1px black;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 5px;
+  left: -20px;
+  border: solid black 1px;
+}
